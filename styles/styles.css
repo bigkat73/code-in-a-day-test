@@ -1,0 +1,29 @@
+p{
+	background-color: blue;
+}
+
+h1{
+	text-align: right;
+}
+
+p{
+	line-height: 24px;
+	text-transform: uppercase;
+	word-spacing: 25px;
+}
+/* 
+color(font)
+background-color
+font-family
+
+web safe fonts or common use google fonts
+font-size
+font-style
+font-weight
+line-height
+text-decoration
+text-transform
+letter-spacing
+word-spacing
+
+*/
